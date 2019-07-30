@@ -1,0 +1,111 @@
+[2019-07-29T10:45:08.331Z] info server running
+[2019-07-29T10:51:54.050Z] info server running
+[2019-07-29T10:52:15.357Z] info server running
+[2019-07-29T10:52:46.095Z] info server running
+[2019-07-29T10:53:10.813Z] info server running
+[2019-07-29T10:53:33.671Z] info server running
+[2019-07-29T10:54:04.206Z] info server running
+[2019-07-29T10:56:25.278Z] info server running
+[2019-07-29T10:56:39.636Z] info server running
+[2019-07-29T11:04:49.672Z] info server running
+[2019-07-29T11:07:15.624Z] info server running
+[2019-07-29T11:10:01.248Z] info server running
+[2019-07-29T11:10:06.591Z] info server running
+[2019-07-29T11:14:29.781Z] info server running
+[2019-07-29T11:15:55.381Z] info server running
+[2019-07-29T11:17:34.259Z] info server running
+[2019-07-29T11:18:32.405Z] info error in insertion of image:Error: Column 'uploaderid' cannot be null
+[2019-07-29T11:18:46.255Z] info server running
+[2019-07-29T11:18:47.970Z] info image inserted
+[2019-07-29T11:19:11.647Z] info server running
+[2019-07-29T11:19:16.179Z] info server running
+[2019-07-29T11:19:43.734Z] info image inserted
+[2019-07-29T11:30:14.619Z] info server running
+[2019-07-29T11:30:28.873Z] info server running
+[2019-07-29T11:31:35.419Z] info server running
+[2019-07-29T11:34:48.642Z] info server running
+[2019-07-29T11:35:52.327Z] info server running
+[2019-07-29T11:36:35.702Z] info server running
+[2019-07-29T11:39:15.609Z] info server running
+[2019-07-29T11:41:22.431Z] info server running
+[2019-07-29T11:41:26.813Z] info server running
+[2019-07-29T11:49:55.334Z] info server running
+[2019-07-29T11:50:49.667Z] info server running
+[2019-07-29T11:51:08.177Z] info image inserted
+[2019-07-29T11:51:20.605Z] info image inserted
+[2019-07-29T11:53:34.253Z] info server running
+[2019-07-29T11:53:39.373Z] info image inserted
+[2019-07-29T11:56:43.720Z] info server running
+[2019-07-29T11:56:50.774Z] info image inserted
+[2019-07-29T12:00:22.139Z] info server running
+[2019-07-29T12:00:50.398Z] info server running
+[2019-07-29T12:06:20.590Z] info server running
+[2019-07-29T12:08:11.686Z] info server running
+[2019-07-29T12:08:30.420Z] info image inserted
+[2019-07-29T12:11:16.186Z] info server running
+[2019-07-29T12:13:27.355Z] info server running
+[2019-07-29T12:13:40.825Z] info image inserted
+[2019-07-29T12:14:57.665Z] info server running
+[2019-07-29T12:15:33.870Z] info server running
+[2019-07-29T12:16:34.906Z] info server running
+[2019-07-29T12:16:42.871Z] info server running
+[2019-07-29T12:17:19.030Z] info server running
+[2019-07-29T12:18:03.855Z] info server running
+[2019-07-29T12:18:54.409Z] info server running
+[2019-07-29T12:18:57.605Z] info error in insertion of image:Error: Column 'uploaderid' cannot be null
+[2019-07-29T12:19:17.480Z] info server running
+[2019-07-29T12:19:26.921Z] info error in insertion of image:Error: Column 'uploaderid' cannot be null
+[2019-07-29T12:19:55.724Z] info server running
+[2019-07-29T12:20:01.830Z] info image inserted
+[2019-07-29T12:20:15.322Z] info server running
+[2019-07-29T12:20:42.768Z] info server running
+[2019-07-29T12:21:12.648Z] info server running
+[2019-07-29T12:21:54.039Z] info server running
+[2019-07-29T12:24:46.766Z] info server running
+[2019-07-29T12:40:00.691Z] info server running
+[2019-07-29T12:44:20.953Z] info server running
+[2019-07-29T12:45:10.859Z] info server running
+[2019-07-29T12:45:58.762Z] error error in displaying of album:Error: Unknown column 'name' in 'where clause'
+[2019-07-29T12:46:26.392Z] info server running
+[2019-07-29T12:46:31.058Z] info server running
+[2019-07-29T12:46:46.430Z] error error in displaying of album:Error: Unknown column 'name' in 'where clause'
+[2019-07-29T12:47:27.928Z] info server running
+[2019-07-29T12:47:34.237Z] error error in displaying of album:Error: Unknown column 'name' in 'where clause'
+[2019-07-29T12:47:59.865Z] info server running
+[2019-07-29T12:48:42.620Z] info error in insertion of image:Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+[2019-07-29T12:49:10.857Z] info server running
+[2019-07-29T12:49:15.702Z] info error in insertion of image:Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+[2019-07-29T12:49:58.040Z] info server running
+[2019-07-29T12:50:05.590Z] info server running
+[2019-07-29T12:50:09.771Z] info error in insertion of image:Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+[2019-07-29T12:50:22.775Z] info server running
+[2019-07-29T12:50:27.577Z] info error in insertion of image:Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+[2019-07-29T12:51:11.887Z] info server running
+[2019-07-29T12:51:15.432Z] info image inserted
+[2019-07-29T12:51:29.680Z] info server running
+[2019-07-30T04:18:57.937Z] info server running
+[2019-07-30T04:54:59.778Z] info server running
+[2019-07-30T04:55:37.526Z] info server running
+[2019-07-30T04:55:56.163Z] info server running
+[2019-07-30T04:57:23.925Z] info server running
+[2019-07-30T05:00:20.401Z] error error in displaying of  images:Error: Unknown column 'uploaderid' in 'where clause'
+[2019-07-30T05:01:08.410Z] info server running
+[2019-07-30T05:09:48.006Z] info server running
+[2019-07-30T05:23:55.690Z] info server running
+[2019-07-30T05:26:08.091Z] info server running
+[2019-07-30T05:27:15.567Z] info server running
+[2019-07-30T05:27:39.206Z] info server running
+[2019-07-30T05:32:57.522Z] info image inserted
+[2019-07-30T05:34:14.501Z] info server running
+[2019-07-30T05:42:05.296Z] info image inserted
+[2019-07-30T05:53:39.351Z] info image inserted
+[2019-07-30T06:11:20.789Z] info server running
+[2019-07-30T06:11:47.696Z] info image inserted
+[2019-07-30T06:14:11.608Z] info server running
+[2019-07-30T06:14:41.535Z] info server running
+[2019-07-30T06:15:54.985Z] info server running
+[2019-07-30T06:16:00.320Z] info server running
+[2019-07-30T06:16:02.403Z] error upload an image
+[2019-07-30T06:17:46.303Z] info server running
+[2019-07-30T06:26:07.455Z] info server running
+[2019-07-30T06:28:11.830Z] info server running
