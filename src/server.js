@@ -26,7 +26,7 @@ app.use('/image', alowmidle, image);
 
 
 app.listen(process.env.PORT, () => {
-	logger.info('server running');
+	logger.info(`server running ${process.env.PORT}`);
 });
 
 module.exports = app;
