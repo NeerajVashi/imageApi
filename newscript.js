@@ -38,19 +38,23 @@ const pool = mysql.createPool(sqlConfig1);
 async function deleteTable() {
 	await pool.query(' DROP TABLE IF EXISTS userImage ');
 }
+async function deleteTable1() {
+	await pool.query(' DROP TABLE IF EXISTS userAlbums ');
+}
 
 async function createTable() {
     await pool.execute('CREATE TABLE userImage (`id` INT NOT NULL AUTO_INCREMENT,`userId` INT NOT NULL,`path` VARCHAR(50000) NOT NULL,`postId` INT ,PRIMARY KEY (`id`))');
 	await console.log('created');
 }
 async function createTable1() {
-    await pool.execute('CREATE TABLE `userAlbums` (`id` INT NOT NULL AUTO_INCREMENT,`userId` INT NOT NULL,`albumname` VARCHAR(450) NOT NULL DEFAULT `myalbum`,`path` VARCHAR(50000) NOT NULL,PRIMARY KEY (`id`))');
+    await pool.execute('CREATE TABLE userAlbums (`id` INT NOT NULL AUTO_INCREMENT,`userId` INT NOT NULL,`albumname` VARCHAR(450) NOT NULL ,`path` VARCHAR(50000) NOT NULL,PRIMARY KEY (`id`))');
 	await console.log('created');
 }
 
 async function script() {
 	await createDatabase();
 	await deleteTable();
+	await deleteTable1();
 	await createTable();
 	await createTable1();
 	
