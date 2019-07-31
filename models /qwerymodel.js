@@ -4,9 +4,11 @@ import pool from './database';
 module.exports ={
     async insertImage(data){
         try {
-                await pool.query(`INSERT INTO userImage SET ? `, [data]); 
+				await pool.query(`INSERT INTO userImage SET ? `, [data]); 
+				const [userimage] = await pool.query(`SELECT path FROM userImage where userId =?  `, [data.userId]); 
+				
                 await logger.info("image inserted");
-                return {image :'image inserted'};    
+                return userimage;    
         }
          catch (error) {
             await logger.info(`error in insertion of image:${error}`);
