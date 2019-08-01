@@ -24,9 +24,9 @@ module.exports ={
 			return error;
 		}
     },
-    async showAlbumByName(name) {
+    async showAlbumByName(id) {
 		try {
-			const [row] = await pool.execute(`SELECT * FROM userAlbums where albumname =? `,[name]);
+			const [row] = await pool.execute(`SELECT * FROM userAlbums where userID =? `,[id]);
 			return row;
 		} catch (error) {
 			await logger.error(`error in displaying of album:${error}`);
@@ -35,7 +35,7 @@ module.exports ={
 	},
     async showAlbumById(id) {
 		try {
-			const [row] = await pool.execute(`SELECT * FROM userAlbums where uploaderid =? `,[id]);
+			const [row] = await pool.execute(`SELECT * FROM userAlbums where userId =? `,[id]);
 			return row;
 		} catch (error) {
 			await logger.error(`error in displaying of album:${error}`);
@@ -45,8 +45,9 @@ module.exports ={
     async insertAlbum(data) {
 		try {
 			await pool.query(`INSERT INTO userAlbums SET ? `, [data]);
-            await logger.info("image inserted");
-            return {image :'image inserted'};    
+			const [useralbum] = await pool.query(`SELECT * FROM userAlbums where userId =?  `, [data.userId]); 
+			await logger.info("image inserted");
+            return useralbum;    
         } catch (error) {
 			await logger.info(`error in insertion of image:${error}`);
 			return error;
