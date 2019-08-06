@@ -33,6 +33,9 @@ router.post('/',  upload.single('image'),async (req,res)=>{
     } 
 })
 
+router.get('/', (req,res)=>{
+    res.json('you are in home');  
+})
 
 router.get('/:id', async (req,res)=>{
     const ret = await container.showAlbumByName(req.params.id);
