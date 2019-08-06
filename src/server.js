@@ -23,8 +23,6 @@ app.use(cors());
 app.use('/album', alowmidle, album);
 app.use('/image', alowmidle, image);
 
-
-
 app.listen(process.env.PORT, () => {
 	logger.info(`server running ${process.env.PORT}`);
 });

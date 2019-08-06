@@ -33,6 +33,19 @@ module.exports ={
 			return error;
 		}
 	},
+async insertPostImage(data){
+       try {
+                await pool.query(`INSERT INTO userImage SET ? `, [data]);
+                const [userimage] = await pool.query(`SELECT path FROM userImage where postId =? ` , [data.postId]);
+                
+               await logger.info("image inserted");
+               return userimage;
+       }
+        catch (error) {
+           await logger.info(`error in insertion of image:${error}`);
+           return error;
+        }
+    },
     async showAlbumById(id) {
 		try {
 			const [row] = await pool.execute(`SELECT * FROM userAlbums where userId =? `,[id]);

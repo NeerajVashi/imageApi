@@ -6,11 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon src/server.js --exec babel-node ",
-<<<<<<< HEAD
-    "mig": "node newscript.js"
-=======
-    "mig":"node newscript.js --exec babel-node"
->>>>>>> bea1ed090327e80a3653c13ac7d2f2637df8037b
+    "mig": "node newscript.js --exec babel-node"
   },
   "author": "",
   "license": "ISC",

@@ -31,6 +31,20 @@ router.post('/',  upload.single('image'),async (req,res)=>{
         await res.json(ret);  
     }
 })
+router.post('/post/',  upload.single('image'),async (req,res)=>{
+   if(req.file===undefined){
+       logger.error('upload an image')
+       res.json({error:'upload an image '})
+   }else{
+   const data={
+       userId :req.body.userId,
+       path:`http://localhost:${process.env.PORT}/`+req.file.path,
+       postId:req.body.postId
+   }
+       const ret = await container.insertPostImage(data);
+       await res.json(ret);
+   }
+})
 
 router.get('/:id', async (req,res)=>{
     const ret = await container.showImages(req.params.id);

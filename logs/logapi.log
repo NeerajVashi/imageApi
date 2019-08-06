@@ -109,7 +109,6 @@
 [2019-07-30T06:17:46.303Z] info server running
 [2019-07-30T06:26:07.455Z] info server running
 [2019-07-30T06:28:11.830Z] info server running
-<<<<<<< HEAD
 [2019-07-31T07:41:59.656Z] info server running
 [2019-07-31T07:54:58.645Z] info server running
 [2019-07-31T08:21:04.432Z] info server running
@@ -119,10 +118,274 @@
 [2019-07-31T08:26:07.791Z] info server running 8007
 [2019-07-31T08:50:04.917Z] info server running 8007
 [2019-07-31T08:51:07.013Z] info image inserted
-=======
 [2019-07-31T06:40:19.227Z] info server running
-<<<<<<< HEAD
->>>>>>> bea1ed090327e80a3653c13ac7d2f2637df8037b
-=======
-[2019-07-31T08:34:26.458Z] info server running
->>>>>>> 117334e7dc327e53d208553ab79968618e56f51e
+[2019-07-31T08:58:01.565Z] info server running 8007
+[2019-07-31T08:58:09.291Z] info server running 8007
+[2019-07-31T08:58:37.540Z] info server running 8007
+[2019-07-31T08:59:10.710Z] info image inserted
+[2019-07-31T10:22:32.754Z] info image inserted
+[2019-07-31T15:47:04.646Z] info server running 8007
+[2019-08-01T15:10:55.865Z] info server running 8007
+[2019-08-01T15:15:47.307Z] info image inserted
+[2019-08-01T15:23:31.841Z] info image inserted
+[2019-08-01T15:24:29.504Z] info image inserted
+[2019-08-01T15:25:08.867Z] info image inserted
+[2019-08-01T15:26:16.758Z] info image inserted
+[2019-08-01T15:26:42.470Z] info image inserted
+[2019-08-01T16:11:49.583Z] info server running 8007
+[2019-08-01T16:30:08.132Z] info server running 8007
+[2019-08-01T16:33:24.617Z] info server running 8007
+[2019-08-01T16:47:22.071Z] info image inserted
+[2019-08-01T16:49:55.181Z] info image inserted
+[2019-08-01T17:06:40.428Z] info image inserted
+[2019-08-01T17:07:29.277Z] info image inserted
+[2019-08-01T17:29:59.483Z] info image inserted
+[2019-08-01T17:30:05.478Z] info image inserted
+[2019-08-01T17:30:08.731Z] info image inserted
+[2019-08-01T17:30:13.899Z] info image inserted
+[2019-08-01T17:30:18.007Z] info image inserted
+[2019-08-01T17:30:25.431Z] info image inserted
+[2019-08-01T17:30:30.513Z] info image inserted
+[2019-08-01T17:30:36.279Z] info image inserted
+[2019-08-01T17:30:41.843Z] info image inserted
+[2019-08-01T17:57:46.360Z] error error in displaying of album:Error: Table 'image.userAlbums' doesn't exist
+[2019-08-01T17:59:47.407Z] error error in displaying of album:Error: Table 'image.userAlbums' doesn't exist
+[2019-08-01T18:01:59.237Z] error error in displaying of album:Error: Table 'image.userAlbums' doesn't exist
+[2019-08-01T18:02:14.594Z] info error in insertion of image:Error: Table 'image.userAlbums' doesn't exist
+[2019-08-01T18:02:18.138Z] error error in displaying of album:Error: Table 'image.userAlbums' doesn't exist
+[2019-08-01T18:02:53.047Z] error error in displaying of album:Error: Table 'image.userAlbums' doesn't exist
+[2019-08-01T18:07:25.297Z] info image inserted
+[2019-08-01T18:09:08.992Z] info image inserted
+[2019-08-01T18:12:08.230Z] info image inserted
+[2019-08-01T18:12:20.963Z] info image inserted
+[2019-08-01T18:13:58.009Z] info image inserted
+[2019-08-01T18:14:34.025Z] info image inserted
+[2019-08-01T18:15:21.805Z] info image inserted
+[2019-08-01T18:17:56.966Z] info image inserted
+[2019-08-01T18:38:07.844Z] info image inserted
+[2019-08-01T18:39:07.560Z] info image inserted
+[2019-08-01T18:39:17.984Z] info image inserted
+[2019-08-01T18:41:07.786Z] info image inserted
+[2019-08-01T18:41:21.173Z] info image inserted
+[2019-08-01T18:43:33.294Z] info image inserted
+[2019-08-01T18:43:33.887Z] info image inserted
+[2019-08-01T18:43:55.121Z] info image inserted
+[2019-08-01T18:46:00.124Z] info image inserted
+[2019-08-01T18:48:43.736Z] info image inserted
+[2019-08-01T18:49:42.367Z] info image inserted
+[2019-08-01T18:51:00.964Z] info image inserted
+[2019-08-01T18:52:07.112Z] info image inserted
+[2019-08-01T19:19:04.560Z] info image inserted
+[2019-08-02T04:06:45.737Z] info server running 8007
+[2019-08-02T04:10:29.734Z] info image inserted
+[2019-08-02T04:10:34.427Z] info image inserted
+[2019-08-02T04:10:39.291Z] info image inserted
+[2019-08-02T04:10:45.060Z] info image inserted
+[2019-08-02T04:10:51.668Z] info image inserted
+[2019-08-02T04:10:58.090Z] info image inserted
+[2019-08-02T04:11:04.479Z] info image inserted
+[2019-08-02T04:11:11.776Z] info image inserted
+[2019-08-02T04:11:16.275Z] info image inserted
+[2019-08-02T04:18:37.965Z] info image inserted
+[2019-08-02T04:26:43.931Z] info image inserted
+[2019-08-02T04:29:23.131Z] info image inserted
+[2019-08-02T04:31:46.055Z] info image inserted
+[2019-08-02T04:32:40.615Z] info image inserted
+[2019-08-02T04:49:35.065Z] info image inserted
+[2019-08-02T04:49:35.480Z] info image inserted
+[2019-08-02T04:49:35.669Z] info image inserted
+[2019-08-02T04:49:35.720Z] info image inserted
+[2019-08-02T04:49:35.837Z] info image inserted
+[2019-08-02T04:49:35.882Z] info image inserted
+[2019-08-02T04:53:59.801Z] info image inserted
+[2019-08-02T04:54:47.101Z] info image inserted
+[2019-08-02T04:56:46.644Z] info image inserted
+[2019-08-02T04:57:46.759Z] info image inserted
+[2019-08-02T04:57:47.741Z] info image inserted
+[2019-08-02T05:05:05.597Z] error upload an image
+[2019-08-02T05:05:13.915Z] info image inserted
+[2019-08-02T10:34:08.021Z] info image inserted
+[2019-08-02T10:36:46.026Z] info image inserted
+[2019-08-02T10:36:46.075Z] info image inserted
+[2019-08-02T10:38:46.300Z] info image inserted
+[2019-08-02T10:38:46.616Z] info image inserted
+[2019-08-02T10:38:46.747Z] info image inserted
+[2019-08-02T10:45:23.134Z] info image inserted
+[2019-08-02T10:45:24.628Z] info image inserted
+[2019-08-02T10:45:27.441Z] info image inserted
+[2019-08-02T11:04:34.623Z] info image inserted
+[2019-08-02T11:18:27.311Z] info image inserted
+[2019-08-02T11:18:28.528Z] info image inserted
+[2019-08-02T11:18:29.469Z] info image inserted
+[2019-08-02T11:21:21.861Z] info image inserted
+[2019-08-02T11:25:53.538Z] info image inserted
+[2019-08-02T11:30:21.149Z] info image inserted
+[2019-08-02T11:31:29.208Z] info image inserted
+[2019-08-02T11:31:51.679Z] info image inserted
+[2019-08-02T11:34:47.134Z] info image inserted
+[2019-08-02T11:45:36.120Z] info image inserted
+[2019-08-02T11:45:52.161Z] info image inserted
+[2019-08-02T11:46:06.527Z] info image inserted
+[2019-08-02T11:47:19.406Z] info image inserted
+[2019-08-02T11:51:55.340Z] info image inserted
+[2019-08-02T11:55:48.076Z] info image inserted
+[2019-08-02T11:56:00.350Z] info image inserted
+[2019-08-02T11:56:19.571Z] info image inserted
+[2019-08-02T11:56:42.489Z] info image inserted
+[2019-08-02T11:57:19.572Z] info image inserted
+[2019-08-02T11:57:50.176Z] info image inserted
+[2019-08-02T11:58:09.915Z] info image inserted
+[2019-08-02T11:58:30.474Z] info image inserted
+[2019-08-02T12:00:43.792Z] error upload an image
+[2019-08-02T12:38:25.485Z] info image inserted
+[2019-08-02T12:38:52.204Z] info image inserted
+[2019-08-02T12:38:54.064Z] info image inserted
+[2019-08-02T12:41:35.722Z] info image inserted
+[2019-08-02T13:52:52.681Z] info server running 8007
+[2019-08-02T14:07:54.273Z] error upload an image
+[2019-08-02T14:07:59.635Z] error upload an image
+[2019-08-02T14:09:04.304Z] info image inserted
+[2019-08-02T14:40:45.642Z] info image inserted
+[2019-08-02T14:41:06.936Z] info image inserted
+[2019-08-02T15:10:46.536Z] error upload an image
+[2019-08-02T15:23:06.920Z] info image inserted
+[2019-08-02T15:23:21.547Z] info image inserted
+[2019-08-02T15:53:41.346Z] info image inserted
+[2019-08-02T15:54:01.417Z] info image inserted
+[2019-08-02T16:06:28.582Z] info image inserted
+[2019-08-03T03:31:31.442Z] info server running 8007
+[2019-08-03T03:34:17.038Z] info image inserted
+[2019-08-03T03:34:36.430Z] info image inserted
+[2019-08-03T03:37:36.780Z] info image inserted
+[2019-08-03T05:29:14.842Z] info image inserted
+[2019-08-03T06:42:48.763Z] info image inserted
+[2019-08-03T08:29:49.098Z] info image inserted
+[2019-08-03T08:30:39.638Z] info image inserted
+[2019-08-03T10:19:55.050Z] info image inserted
+[2019-08-03T10:24:43.497Z] info image inserted
+[2019-08-03T10:25:17.059Z] info image inserted
+[2019-08-03T10:25:50.247Z] info image inserted
+[2019-08-03T10:26:31.701Z] info image inserted
+[2019-08-03T10:26:42.379Z] info image inserted
+[2019-08-03T10:27:17.391Z] info image inserted
+[2019-08-03T10:29:39.053Z] info image inserted
+[2019-08-03T10:34:19.233Z] info image inserted
+[2019-08-03T10:34:38.144Z] info image inserted
+[2019-08-03T10:34:58.481Z] info image inserted
+[2019-08-03T10:35:34.368Z] info image inserted
+[2019-08-03T10:36:00.730Z] info image inserted
+[2019-08-03T10:36:14.943Z] info image inserted
+[2019-08-03T10:36:46.492Z] info image inserted
+[2019-08-03T10:37:19.938Z] info image inserted
+[2019-08-03T10:37:30.547Z] info image inserted
+[2019-08-03T10:38:30.674Z] info image inserted
+[2019-08-03T10:38:44.358Z] info image inserted
+[2019-08-03T10:39:05.200Z] info image inserted
+[2019-08-03T10:39:23.398Z] info image inserted
+[2019-08-03T10:39:36.768Z] info image inserted
+[2019-08-03T10:39:52.955Z] info image inserted
+[2019-08-03T10:41:56.854Z] info image inserted
+[2019-08-03T10:42:12.688Z] info image inserted
+[2019-08-03T10:42:52.640Z] info image inserted
+[2019-08-03T10:43:50.782Z] info image inserted
+[2019-08-03T10:48:24.386Z] info image inserted
+[2019-08-03T10:49:12.251Z] info image inserted
+[2019-08-03T10:54:10.896Z] info image inserted
+[2019-08-03T11:13:42.666Z] info image inserted
+[2019-08-03T11:14:01.242Z] info image inserted
+[2019-08-03T11:14:18.873Z] info image inserted
+[2019-08-03T11:14:44.625Z] info image inserted
+[2019-08-03T11:15:10.154Z] info image inserted
+[2019-08-03T11:17:24.068Z] info image inserted
+[2019-08-03T13:30:44.466Z] info image inserted
+[2019-08-03T20:18:05.105Z] info image inserted
+[2019-08-03T20:18:24.678Z] info image inserted
+[2019-08-03T20:18:36.074Z] info image inserted
+[2019-08-03T20:19:21.214Z] info image inserted
+[2019-08-03T20:20:19.033Z] info image inserted
+[2019-08-03T20:20:34.373Z] info image inserted
+[2019-08-03T20:20:42.241Z] info image inserted
+[2019-08-03T20:21:00.378Z] info image inserted
+[2019-08-03T20:21:16.071Z] info image inserted
+[2019-08-03T20:21:35.566Z] info image inserted
+[2019-08-03T20:31:33.948Z] info image inserted
+[2019-08-03T20:32:01.377Z] info image inserted
+[2019-08-03T20:33:41.348Z] info image inserted
+[2019-08-03T20:34:26.938Z] info image inserted
+[2019-08-03T20:34:58.421Z] info image inserted
+[2019-08-03T20:39:34.143Z] info image inserted
+[2019-08-03T20:39:52.314Z] info image inserted
+[2019-08-03T20:40:04.394Z] info image inserted
+[2019-08-03T20:40:25.068Z] info image inserted
+[2019-08-03T20:40:40.236Z] info image inserted
+[2019-08-03T20:42:28.264Z] info image inserted
+[2019-08-03T20:47:36.775Z] info image inserted
+[2019-08-03T20:55:31.456Z] info server running 8007
+[2019-08-03T21:05:42.394Z] info error in insertion of image:Error: Incorrect integer value: '[object Object]' for column 'postId' at row 1
+[2019-08-04T03:11:38.656Z] info server running 8007
+[2019-08-04T03:13:08.989Z] info error in insertion of image:Error: Incorrect integer value: '[object Object]' for column 'postId' at row 1
+[2019-08-04T03:15:51.800Z] info error in insertion of image:Error: Incorrect integer value: '[object Object]' for column 'postId' at row 1
+[2019-08-04T03:16:58.619Z] info error in insertion of image:Error: Incorrect integer value: '[object Object]' for column 'postId' at row 1
+[2019-08-04T03:29:55.521Z] info image inserted
+[2019-08-04T03:31:00.156Z] info image inserted
+[2019-08-04T04:20:10.219Z] info server running 8007
+[2019-08-04T04:24:39.897Z] info image inserted
+[2019-08-04T04:25:40.216Z] info image inserted
+[2019-08-04T04:27:58.527Z] info image inserted
+[2019-08-04T04:32:31.516Z] info image inserted
+[2019-08-04T04:49:42.499Z] info image inserted
+[2019-08-04T04:49:58.469Z] info image inserted
+[2019-08-04T04:51:48.501Z] info image inserted
+[2019-08-04T04:52:00.982Z] info image inserted
+[2019-08-04T04:52:31.606Z] info image inserted
+[2019-08-04T04:52:44.200Z] info image inserted
+[2019-08-04T04:53:52.593Z] info image inserted
+[2019-08-04T04:57:36.221Z] info image inserted
+[2019-08-04T04:57:52.356Z] info image inserted
+[2019-08-04T04:58:02.373Z] info image inserted
+[2019-08-04T04:58:09.743Z] info image inserted
+[2019-08-04T04:58:27.298Z] info image inserted
+[2019-08-04T05:50:33.944Z] info image inserted
+[2019-08-04T13:49:51.902Z] info server running 8007
+[2019-08-05T03:44:00.440Z] info server running 8007
+[2019-08-05T04:33:17.810Z] info image inserted
+[2019-08-05T08:54:28.163Z] info image inserted
+[2019-08-05T08:54:47.766Z] info image inserted
+[2019-08-05T08:56:03.711Z] info image inserted
+[2019-08-05T08:56:32.231Z] info image inserted
+[2019-08-05T08:57:48.322Z] info image inserted
+[2019-08-05T08:57:58.762Z] info image inserted
+[2019-08-05T09:03:43.996Z] info image inserted
+[2019-08-05T09:03:58.849Z] info image inserted
+[2019-08-05T09:04:18.178Z] info image inserted
+[2019-08-05T09:10:29.306Z] info image inserted
+[2019-08-05T09:12:06.123Z] info image inserted
+[2019-08-05T09:12:58.149Z] info image inserted
+[2019-08-05T09:13:42.254Z] info image inserted
+[2019-08-05T09:13:55.626Z] info image inserted
+[2019-08-05T09:14:01.635Z] info image inserted
+[2019-08-05T09:14:02.280Z] info image inserted
+[2019-08-05T09:23:48.019Z] info image inserted
+[2019-08-05T09:29:29.632Z] info image inserted
+[2019-08-05T09:30:18.947Z] info image inserted
+[2019-08-05T09:38:42.061Z] info image inserted
+[2019-08-05T09:38:58.552Z] info image inserted
+[2019-08-05T09:43:34.235Z] info image inserted
+[2019-08-05T09:45:15.959Z] info image inserted
+[2019-08-05T09:45:41.322Z] info image inserted
+[2019-08-05T09:46:55.507Z] info image inserted
+[2019-08-05T10:12:19.914Z] info server running 8007
+[2019-08-05T10:12:27.917Z] info image inserted
+[2019-08-05T10:32:34.251Z] info image inserted
+[2019-08-05T10:52:35.191Z] info server running 8007
+[2019-08-05T11:07:13.930Z] info image inserted
+[2019-08-05T11:08:04.385Z] info image inserted
+[2019-08-05T11:08:44.190Z] info image inserted
+[2019-08-05T11:13:15.607Z] info image inserted
+[2019-08-05T11:14:56.146Z] info image inserted
+[2019-08-05T12:41:03.830Z] info image inserted
+[2019-08-05T12:44:21.285Z] info image inserted
+[2019-08-06T03:39:35.068Z] info server running 8007
+[2019-08-06T04:16:28.921Z] info image inserted
+[2019-08-06T04:52:03.585Z] info image inserted
+[2019-08-06T07:07:07.392Z] info image inserted
